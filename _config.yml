@@ -11,9 +11,9 @@ desc: >
   Educação, Tecnologia e Política
 # posts
 date_format: "%Y"
-post_title: Artigo
+post_title: Título
 post_date: Ano
-post_cat: Categoria
+post_cat: 
 
 # post detail
 prev-next: true
