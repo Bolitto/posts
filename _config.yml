@@ -1,6 +1,6 @@
 # site
 title: Walter Bolitto
-baseurl: "/louie"
+baseurl: "/posts"
 url: "http:/bolitto.github.io/"
 favicon: "/assets/sample/ico.png"
 g_analytics: 
@@ -11,9 +11,9 @@ desc: >
   Educação, Tecnologia e Política
 # posts
 date_format: "%Y"
-post_title: Story
-post_date: Year
-post_cat: Genre
+post_title: Artigo
+post_date: Ano
+post_cat: Categoria
 
 # post detail
 prev-next: true
