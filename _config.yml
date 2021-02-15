@@ -1,7 +1,7 @@
 # site
 title: Walter Bolitto
-baseurl: "/posts"
-url: "http:/bolitto.github.io"
+baseurl: ""
+url: "http:/bolitto.github.io/textos"
 favicon: "/assets/sample/ico.png"
 g_analytics: 
 
